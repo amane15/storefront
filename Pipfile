@@ -16,6 +16,7 @@ djangorestframework-simplejwt = "*"
 
 [dev-packages]
 black = "*"
+django-stubs = "*"
 
 [requires]
 python_version = "3.12"
